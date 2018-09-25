@@ -6,3 +6,26 @@ body h1{
     text-decoration: underline;
     color: red;
 }
+img.elon {
+    float: right;
+}
+h3{
+    text-decoration: underline;
+}
+#Child p{ 
+    position: relative; 
+    text-align: justify; 
+    color: blue; 
+}
+#ComFou h3{
+    text-align: center;
+}
+#X h3 {
+    text-align: right;
+}
+#spacex h3 {
+    text-align: right;
+}
+#Awards {
+    counter-reset: section;
+}
